@@ -1,12 +1,9 @@
 ---
 layout: default
 ---
-#
-не знаю что здесь написать
-##
-asdfasdfa
-###
-asdfsdfasde
+# не знаю что здесь написать
+## asdfasdfa
+### asdfsdfasde
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
